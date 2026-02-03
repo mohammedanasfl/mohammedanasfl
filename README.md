@@ -57,9 +57,4 @@ I’m passionate about continuous learning, writing maintainable code, and build
 - GitHub: https://github.com/mohammedanasfl  
 - Email: nanass21072001@gmail.com
 
----
 
-If you'd like, I can:
-- Turn this into a concise GitHub profile README (README.md for your profile repo).  
-- Generate tailored READMEs for any of your project repos with setup steps and examples.  
-- Add an “Experience & Education” section using details from your CV.
